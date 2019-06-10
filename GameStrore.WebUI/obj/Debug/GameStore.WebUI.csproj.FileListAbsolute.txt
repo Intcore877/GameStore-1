@@ -272,12 +272,12 @@ D:\GameStore\GameStore-master\GameStrore.WebUI\bin\Ninject.Web.Common.pdb
 D:\GameStore\GameStore-master\GameStrore.WebUI\bin\Ninject.Web.Common.xml
 D:\GameStore\GameStore-master\GameStrore.WebUI\bin\Ninject.Web.Mvc.pdb
 D:\GameStore\GameStore-master\GameStrore.WebUI\bin\Ninject.Web.Mvc.xml
+D:\GameStore\GameStore-master\GameStrore.WebUI\bin\System.Web.Mvc.xml
 D:\GameStore\GameStore-master\GameStrore.WebUI\bin\System.Web.Razor.xml
 D:\GameStore\GameStore-master\GameStrore.WebUI\bin\System.Web.Webpages.xml
 D:\GameStore\GameStore-master\GameStrore.WebUI\bin\System.Web.Webpages.Deployment.xml
 D:\GameStore\GameStore-master\GameStrore.WebUI\bin\System.Web.Webpages.Razor.xml
 D:\GameStore\GameStore-master\GameStrore.WebUI\bin\System.Web.Helpers.xml
-D:\GameStore\GameStore-master\GameStrore.WebUI\bin\System.Web.Mvc.xml
 D:\GameStore\GameStore-master\GameStrore.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
 D:\GameStore\GameStore-master\GameStrore.WebUI\obj\Debug\GameStore.WebUI.csprojAssemblyReference.cache
 D:\GameStore\GameStore-master\GameStrore.WebUI\obj\Debug\GameStore.WebUI.csproj.CoreCompileInputs.cache

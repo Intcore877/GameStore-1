@@ -1,5 +1,3 @@
-D:\GameStore\GameStore-master\GameStore.UnitTests\obj\Debug\GameStore.UnitTests.csprojAssemblyReference.cache
-D:\GameStore\GameStore-master\GameStore.UnitTests\obj\Debug\GameStore.UnitTests.csproj.CoreCompileInputs.cache
 D:\GameStore\GameStore-master\GameStore.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
 D:\GameStore\GameStore-master\GameStore.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
 D:\GameStore\GameStore-master\GameStore.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
@@ -43,6 +41,8 @@ D:\GameStore\GameStore-master\GameStore.UnitTests\bin\Debug\System.Web.WebPages.
 D:\GameStore\GameStore-master\GameStore.UnitTests\bin\Debug\System.Web.WebPages.Deployment.xml
 D:\GameStore\GameStore-master\GameStore.UnitTests\bin\Debug\System.Web.WebPages.Razor.xml
 D:\GameStore\GameStore-master\GameStore.UnitTests\bin\Debug\EntityFramework.xml
+D:\GameStore\GameStore-master\GameStore.UnitTests\obj\Debug\GameStore.UnitTests.csprojAssemblyReference.cache
+D:\GameStore\GameStore-master\GameStore.UnitTests\obj\Debug\GameStore.UnitTests.csproj.CoreCompileInputs.cache
 D:\GameStore\GameStore-master\GameStore.UnitTests\obj\Debug\GameStore.UnitTests.csproj.CopyComplete
 D:\GameStore\GameStore-master\GameStore.UnitTests\obj\Debug\GameStore.UnitTests.dll
 D:\GameStore\GameStore-master\GameStore.UnitTests\obj\Debug\GameStore.UnitTests.pdb
